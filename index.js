@@ -11,7 +11,8 @@ var common = require('./common')
 
 var supportedArchs = {
   ia32: 1,
-  x64: 1
+  x64: 1,
+  arm: 1
 }
 
 var supportedPlatforms = {
